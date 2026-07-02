@@ -94,13 +94,13 @@ I'm a passionate Software Engineer focused on crafting high-performance, visuall
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaimSuhailQu&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SaimSuhailQu&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaimSuhailQu&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimSuhailQu&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SaimSuhailQu&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
 </p>
 
 ---
