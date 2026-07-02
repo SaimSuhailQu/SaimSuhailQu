@@ -1,21 +1,49 @@
 # Hi there, I'm Saim Suhail! 👋
-### Full-Stack Developer & Mobile Engineer (Flutter / Web)
+### Full-Stack Developer & Mobile Engineer (Flutter / Web / Security)
 
 <p align="left">
   <a href="https://github.com/SaimSuhailQu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&width=435&lines=Building+beautiful+mobile+apps;Flutter+%26+Dart+Enthusiast;Full-Stack+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&width=435&lines=Building+beautiful+mobile+apps;Flutter+%26+Dart+Enthusiast;Full-Stack+Web+Developer;Android+Security+Researcher" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 💫 About Me
-I'm a passionate Software Engineer focused on crafting high-performance, visually stunning, and highly accessible mobile and web applications. I love pairing clean code architectures with modern UI/UX design patterns.
+I'm a passionate Software Engineer focused on crafting high-performance, visually stunning, and highly accessible mobile, web, and desktop applications. I love pairing clean code architectures with modern UI/UX design patterns and security-focused development.
 
-* 📱 **Flutter Specialist**: Crafting responsive, fluid mobile applications.
-* 🌐 **Full-Stack Explorer**: Building scalable web applications using React, Node.js, and modern databases.
-* 🎨 **UI/UX Advocate**: Believer in WCAG compliance, beautiful color systems, and micro-interactions.
-* 🚀 **Open Source Contributor**: Always eager to learn, build, and share with the developer community.
+* 📱 **Flutter & Mobile**: Crafting responsive, fluid mobile applications with state-of-the-art animations.
+* 🌐 **Full-Stack Web & GIS**: Building geospatial mapping interfaces and scalable React architectures.
+* 🖥️ **Desktop & POS**: Developing cross-platform desktop POS systems designed for high-performance offline environments.
+* 🛡️ **Android Security**: Exploring Android system-level vulnerabilities, ADB exploits, and ethical security research.
+
+---
+
+### 🚀 Highlighted Projects
+
+#### 📱 [SmartExpense](https://github.com/SaimSuhailQu/smartexpense)
+> **Premium Personal Finance & Expense Tracker**
+* **Tech Stack**: `Flutter` | `Dart` | `Firebase Auth` | `SQLite` | `Provider` | `Vibrant Glassmorphism Theme`
+* **Core Features**: Real-time sync with offline support, advanced financial analytics charts, budget management, recurring transactions, and custom yearly planning tools.
+* **Design Excellence**: Adheres to strict WCAG AA contrast compliance, customizable dark/light theme systems, and premium micro-interactions.
+
+#### 🌍 [EcoLens WebGIS](https://github.com/SaimSuhailQu/ecolens-webgis)
+> **Environmental Geospatial Mapping & GIS Web Application**
+* **Tech Stack**: `React` | `TypeScript` | `Vite` | `Tailwind CSS` | `Firebase` | `Leaflet / OpenLayers`
+* **Core Features**: Interactive spatial mapping, environmental analysis query engines, and responsive spatial data visualizations.
+* **Design Excellence**: Modern GIS controls, real-time spatial indicators, and responsive dashboard grid layout.
+
+#### 🖥️ [OfflineMart POS](https://github.com/SaimSuhailQu/offline-mart-pos)
+> **High-Performance Offline-First Retail Point-of-Sale System**
+* **Tech Stack**: `Electron` | `React` | `Vite` | `TypeScript` | `Tailwind CSS` | `SQLite`
+* **Core Features**: Seamless offline point-of-sale functionality, real-time inventory management, automated invoice generation, and detailed sales reports.
+* **Architecture**: Local database replication, high-throughput caching, and robust security protocols for offline-first transactional integrity.
+
+#### 🛡️ [FRP Freedom](https://github.com/SaimSuhailQu/frp-freedom)
+> **Android Factory Reset Protection (FRP) Bypass Automation Tool**
+* **Tech Stack**: `Python` | `ADB (Android Debug Bridge)` | `Fastboot` | `SQLite`
+* **Core Features**: Automated ADB exploit triggers, bootloader fastboot scanning, system partition modification, and database bypass scripts.
+* **Ethics**: Built-in verification mechanisms and compliance check steps designed exclusively for recovery of owned devices.
 
 ---
 
@@ -40,30 +68,30 @@ I'm a passionate Software Engineer focused on crafting high-performance, visuall
       <br/>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
-      <br/>Node.js
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+      <br/>TypeScript
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-      <br/>Firebase
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+      <br/>Electron
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-      <br/>Git
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+      <br/>Firebase
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
       <br/>Python
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-      <br/>CSS3
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+      <br/>Tailwind CSS
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-      <br/>HTML5
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+      <br/>Git
     </td>
   </tr>
 </table>
