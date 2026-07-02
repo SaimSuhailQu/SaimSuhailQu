@@ -1,21 +1,20 @@
 # Hi there, I'm Saim Suhail! 👋
-### Full-Stack Developer & Mobile Engineer (Flutter / Web / Security)
+### Full-Stack Developer & Mobile Engineer (Flutter / Web)
 
 <p align="left">
   <a href="https://github.com/SaimSuhailQu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&width=435&lines=Building+beautiful+mobile+apps;Flutter+%26+Dart+Enthusiast;Full-Stack+Web+Developer;Android+Security+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&width=435&lines=Building+beautiful+mobile+apps;Flutter+%26+Dart+Enthusiast;Full-Stack+Web+Developer" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 💫 About Me
-I'm a passionate Software Engineer focused on crafting high-performance, visually stunning, and highly accessible mobile, web, and desktop applications. I love pairing clean code architectures with modern UI/UX design patterns and security-focused development.
+I'm a passionate Software Engineer focused on crafting high-performance, visually stunning, and highly accessible mobile, web, and desktop applications. I love pairing clean code architectures with modern UI/UX design patterns.
 
 * 📱 **Flutter & Mobile**: Crafting responsive, fluid mobile applications with state-of-the-art animations.
 * 🌐 **Full-Stack Web & GIS**: Building geospatial mapping interfaces and scalable React architectures.
 * 🖥️ **Desktop & POS**: Developing cross-platform desktop POS systems designed for high-performance offline environments.
-* 🛡️ **Android Security**: Exploring Android system-level vulnerabilities, ADB exploits, and ethical security research.
 
 ---
 
@@ -38,12 +37,6 @@ I'm a passionate Software Engineer focused on crafting high-performance, visuall
 * **Tech Stack**: `Electron` | `React` | `Vite` | `TypeScript` | `Tailwind CSS` | `SQLite`
 * **Core Features**: Seamless offline point-of-sale functionality, real-time inventory management, automated invoice generation, and detailed sales reports.
 * **Architecture**: Local database replication, high-throughput caching, and robust security protocols for offline-first transactional integrity.
-
-#### 🛡️ [FRP Freedom](https://github.com/SaimSuhailQu/frp-freedom)
-> **Android Factory Reset Protection (FRP) Bypass Automation Tool**
-* **Tech Stack**: `Python` | `ADB (Android Debug Bridge)` | `Fastboot` | `SQLite`
-* **Core Features**: Automated ADB exploit triggers, bootloader fastboot scanning, system partition modification, and database bypass scripts.
-* **Ethics**: Built-in verification mechanisms and compliance check steps designed exclusively for recovery of owned devices.
 
 ---
 
