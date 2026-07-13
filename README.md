@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0EA5E9&height=200&section=header&text=Saim%20Suhail&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Geo-Informatics%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0EA5E9&height=200&section=header&text=Saim%20Suhail&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GIS%20Specialist%20%7C%20Full-Stack%20Developer" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=550&lines=GIS+%26+Remote+Sensing+Specialist;Building+WebGIS+platforms+with+React+%2B+GEE;Flutter+%26+Full-Stack+Web+Developer;ArcGIS+Pro+%7C+ArcPy+%7C+Google+Earth+Engine)](https://github.com/SaimSuhailQu)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=550&lines=GIS+%26+Remote+Sensing+Specialist;Building+WebGIS+%26+Mobile+Apps;Geospatial+Data+Visualization;Open+Source+Contributor)](https://github.com/SaimSuhailQu)
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-I'm a Geo-Informatics graduate student and software engineer who builds at the intersection of geospatial science and modern web/mobile development. My work spans GIS analysis, remote sensing, and full-stack engineering — from spatial risk modeling in ArcGIS Pro to production WebGIS platforms built with React and the Google Earth Engine API.
+I'm a Geo-Informatics graduate student and software engineer who builds at the intersection of geospatial science and modern web/mobile development. My work spans GIS analysis, remote sensing, and full-stack software engineering to create impactful spatial solutions.
 
 ```
 🛰️  GIS & Remote Sensing   →  ArcGIS Pro · ArcPy · Google Earth Engine · Spectral Indices
