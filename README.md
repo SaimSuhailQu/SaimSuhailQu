@@ -107,7 +107,8 @@ I'm a passionate Software Engineer focused on crafting high-performance, visuall
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
+  <a href="www.linkedin.com/in/saim-suhail-449387282" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" /></a>
+  <a href="mailto:saim.suhail.5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" /></a>
 </p>
+
