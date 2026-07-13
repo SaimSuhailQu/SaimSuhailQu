@@ -1,114 +1,80 @@
 # Hi there, I'm Saim Suhail! 👋
-### Full-Stack Developer & Mobile Engineer (Flutter / Web)
 
-<p align="left">
-  <a href="https://github.com/SaimSuhailQu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&width=435&lines=Building+beautiful+mobile+apps;Flutter+%26+Dart+Enthusiast;Full-Stack+Web+Developer" alt="Typing SVG" />
-  </a>
-</p>
+### Geo-Informatics Engineer | Full-Stack & Mobile Developer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&width=435&lines=GIS+%26+Remote+Sensing+Specialist;Building+WebGIS+platforms+with+React+%2B+GEE;Flutter+%26+Full-Stack+Web+Developer)](https://github.com/SaimSuhailQu)
 
 ---
 
 ### 💫 About Me
-I'm a passionate Software Engineer focused on crafting high-performance, visually stunning, and highly accessible mobile, web, and desktop applications. I love pairing clean code architectures with modern UI/UX design patterns.
 
-* 📱 **Flutter & Mobile**: Crafting responsive, fluid mobile applications with state-of-the-art animations.
-* 🌐 **Full-Stack Web & GIS**: Building geospatial mapping interfaces and scalable React architectures.
-* 🖥️ **Desktop & POS**: Developing cross-platform desktop POS systems designed for high-performance offline environments.
+I'm a Geo-Informatics graduate student and software engineer who builds at the intersection of geospatial science and modern web/mobile development. My work spans GIS analysis, remote sensing, and full-stack engineering — from spatial risk modeling in ArcGIS Pro to production WebGIS platforms built with React and the Google Earth Engine API.
+
+- 🛰️ **GIS & Remote Sensing**: ArcGIS Pro, ArcPy, Google Earth Engine, spectral index analysis (NDVI, NDWI, EVI, SAVI), flood risk zone mapping.
+- 🌍 **WebGIS & Full-Stack**: Interactive geospatial platforms with React, TypeScript, and Leaflet/OpenLayers.
+- 📱 **Flutter & Mobile**: Responsive mobile applications with clean state management and modern UI patterns.
+- 🖥️ **Desktop Systems**: Offline-first desktop applications built with Electron.
 
 ---
 
 ### 🚀 Highlighted Projects
 
+#### 🌍 [EcoLens WebGIS](https://github.com/SaimSuhailQu/ecolens-webgis)
+> **Environmental Geospatial Mapping & GIS Web Application** — Final Year Project
+
+- **Role**: Lead Developer & Geospatial Architect
+- **Tech Stack**: `React` | `TypeScript` | `Leaflet` | `Google Earth Engine API` | `Vite` | `Tailwind CSS`
+- **Core Features**: Interactive spatial mapping, environmental analysis query engines powered by GEE, and responsive spatial data dashboards.
+
+#### 🗺️ Flood Risk Zone Mapping — Abbottabad
+> **Spatial Risk Analysis in ArcGIS Pro**
+
+- **Tools**: `ArcGIS Pro` | `ArcPy` | `Spatial Analyst`
+- **Core Work**: Flood risk zone delineation and hazard mapping for Abbottabad using terrain, hydrological, and land-use data layers.
+
 #### 📱 [SmartExpense](https://github.com/SaimSuhailQu/smartexpense)
 > **Premium Personal Finance & Expense Tracker**
-* **Tech Stack**: `Flutter` | `Dart` | `Firebase Auth` | `SQLite` | `Provider` | `Vibrant Glassmorphism Theme`
-* **Core Features**: Real-time sync with offline support, advanced financial analytics charts, budget management, recurring transactions, and custom yearly planning tools.
-* **Design Excellence**: Adheres to strict WCAG AA contrast compliance, customizable dark/light theme systems, and premium micro-interactions.
 
-#### 🌍 [EcoLens WebGIS](https://github.com/SaimSuhailQu/ecolens-webgis)
-> **Environmental Geospatial Mapping & GIS Web Application**
-* **Tech Stack**: `React` | `TypeScript` | `Vite` | `Tailwind CSS` | `Firebase` | `Leaflet / OpenLayers`
-* **Core Features**: Interactive spatial mapping, environmental analysis query engines, and responsive spatial data visualizations.
-* **Design Excellence**: Modern GIS controls, real-time spatial indicators, and responsive dashboard grid layout.
+- **Tech Stack**: `Flutter` | `Dart` | `Firebase Auth` | `SQLite` | `Provider`
+- **Core Features**: Real-time sync with offline support, financial analytics charts, budget management, and recurring transactions.
 
 #### 🖥️ [OfflineMart POS](https://github.com/SaimSuhailQu/offline-mart-pos)
 > **High-Performance Offline-First Retail Point-of-Sale System**
-* **Tech Stack**: `Electron` | `React` | `Vite` | `TypeScript` | `Tailwind CSS` | `SQLite`
-* **Core Features**: Seamless offline point-of-sale functionality, real-time inventory management, automated invoice generation, and detailed sales reports.
-* **Architecture**: Local database replication, high-throughput caching, and robust security protocols for offline-first transactional integrity.
+
+- **Tech Stack**: `Electron` | `React` | `TypeScript` | `SQLite`
+- **Core Features**: Offline point-of-sale functionality, real-time inventory management, and automated invoicing.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-      <br/>Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-      <br/>Dart
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-      <br/>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      <br/>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-      <br/>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-      <br/>Electron
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-      <br/>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      <br/>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-      <br/>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-      <br/>Git
-    </td>
-  </tr>
-</table>
+**Geospatial**
+![ArcGIS](https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20%2F%20ArcPy-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+
+**Development**
+![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg) Flutter
+![Dart](https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg) Dart
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React
+![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) TypeScript
+![Electron](https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg) Electron
+![Firebase](https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg) Firebase
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) Git
 
 ---
 
 ### 📊 GitHub Stats & Metrics
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=SaimSuhailQu&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaimSuhailQu&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SaimSuhailQu&show_icons=true&theme=tokyonight)](https://github.com/SaimSuhailQu)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaimSuhailQu&theme=tokyonight)](https://github.com/SaimSuhailQu)
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SaimSuhailQu&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
-</p>
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=SaimSuhailQu&layout=compact&theme=tokyonight)](https://github.com/SaimSuhailQu)
 
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
-  <a href="www.linkedin.com/in/saim-suhail-449387282" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:saim.suhail.5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" /></a>
-</p>
 
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saim-suhail-449387282)
+[![Gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saim.suhail.5@gmail.com)
